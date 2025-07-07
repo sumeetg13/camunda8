@@ -19,7 +19,6 @@ Run only the core services :  Zeebe, Tasklist, Operate, and Connectors
  docker compose -f docker-compose-core.yaml up -d
 ```
 
-```
 Run the web modeler : 
 
 ```bash
